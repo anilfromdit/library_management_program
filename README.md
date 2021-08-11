@@ -9,6 +9,7 @@ This is backed by sqlite3 database for maintaining the records even after closin
 - Add/Remove 
 - Signup Page Pop up automatically on new installation 
 - Fine collection and it's records and maintained
+- Delete Sound
 
 This program is based on real life GUI based program which help in maintainign the record
 just a light weight replica in CLI 
