@@ -4,7 +4,7 @@ connection = sqlite3.connect("library.db")
 cursor = connection.cursor()
 
 def create_new_account():
-    while(1):
+    while(true):
         username = input("\nChoose A Username For Your Account:")
         if username=='':
             continue
